@@ -4,7 +4,7 @@
 
 - Sword 是一款基于Nuclei引擎，面向安全测试场景的本地桌面工具，围绕 POC 管理、批量扫描、抓包分析、请求重放和结果整理这几条高频链路做统一整合。
 - 它的目标不是只做单点能力，而是把“模板管理 -> 扫描执行 -> 结果查看 -> 流量分析 -> 请求重放”串成一条完整工作流，减少在多个工具之间来回切换的成本。
-- 下载地址：https://github.com/zg-sec/sword-pocs
+- 下载地址：https://github.com/zg-sec/sword
 
 
 ## POC仓库维护说明
@@ -17,6 +17,7 @@
 ## 下载地址
 
 - https://github.com/zg-sec/sword-pocs/releases
+
 - 解压统一为：`zhugeanquan`
 
 ## 发布记录
