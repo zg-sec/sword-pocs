@@ -21,4 +21,4 @@
 
 ## 发布记录
 
-- 2026年4月1号：Releases Tag：V1.0（57849个）
+- 2026年4月1号：Releases Tag：[v1.0](https://github.com/zg-sec/sword-pocs/releases/tag/v1.0)（57849个）
