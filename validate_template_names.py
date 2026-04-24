@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 基于sword项目，校验模板名称是否符合规则
+# 基于ScanSword项目，校验模板名称是否符合规则
 
 import argparse
 import hashlib
