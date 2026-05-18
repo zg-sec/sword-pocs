@@ -8,7 +8,6 @@
 
 ## POC仓库维护说明
 
-- 每个yaml文件保持唯一性，参考去重规则 [./TEMPLATE_NAMING_RULES.md](./TEMPLATE_NAMING_RULES.md)
 - 严格遵循nuclei官方模板编写和验证规则。
 - POC文件将在发布包处发布，解压缩后均为yaml，无其他格式文件。
 - 每个yaml文件均通过ScanSword项目校验可用性。
